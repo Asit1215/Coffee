@@ -38,7 +38,7 @@ const swiper = new Swiper('.slider-wrapper', {
         slidesPerView: 2
     },
     1024: {
-        slidePerView: 3
+        slidesPerView: 3
     }
   }
 });

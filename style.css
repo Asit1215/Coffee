@@ -127,7 +127,7 @@ header .navbar {
     justify-content: space-between;
 }
 .hero-section .hero-details .title{
-    font-size: var(--font-size-xx1);
+    font-size: var(--font-size-xxl);
     color: var(--secondary-color);
     font-family: "Miniver", sans-serif;
 }
@@ -168,7 +168,6 @@ header .navbar {
 }
 .hero-section .hero-image-wrapper{
     max-width: 500px;
-    margin-right: 30px;
 }
 .about-section{
     padding: 120px 0;
@@ -422,7 +421,7 @@ header .navbar {
     --font-size-m: 1rem;
     --font-size-1: 1.3rem;
     --font-size-x1:1.5rem;
-    --font-size-xxl: 1.8srem;
+    --font-size-xxl: 1.8rem;
     }
     body.show-mobile-menu header::before{
         content: "";
